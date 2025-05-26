@@ -28,7 +28,7 @@ This project is a simple authentication system built with **Next.js**, **TypeScr
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/koraykocaelli/next-firebase-auth-app.git
+git clone https://github.com/koraykocaelli/Next-Firebase-Auth-App
 cd next-firebase-auth-app
 ```
 2. Install dependencies:
